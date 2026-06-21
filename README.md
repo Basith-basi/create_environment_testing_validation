@@ -22,7 +22,7 @@ Jupyter Notebook
 Git
 Project Structure
 
-PlaceMux_Task1/
+
 
 ├── data/
 
